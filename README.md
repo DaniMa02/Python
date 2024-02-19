@@ -2,7 +2,7 @@
 
 |Tarea|Descripción|
 |-----|-----------|
-|[Ejercicio 1](/Ejercicio1.py)|Escribir por pantalla cada carácter de una cadena introducida por teclado.|
+|[Ejercicio 1](/Ejercicios/Ejercicio1.py)|Escribir por pantalla cada carácter de una cadena introducida por teclado.|
 |[Ejercicio 2](/Ejercicio2.py)|Realizar un programa que comprueba si una cadena leída por teclado comienza por una subcadena introducida por teclado.|
 |[Ejercicio 3](/Ejercicio3.py)|Pide una cadena y un carácter por teclado (valida que sea un carácter) y muestra cuantas veces aparece el carácter en la cadena.|
 |[Ejercicio 4](/Ejercicio4.py)|Suponiendo que hemos introducido una cadena por teclado que representa una frase (palabras separadas por espacios), realiza un programa que cuente cuantas palabras tiene.|
